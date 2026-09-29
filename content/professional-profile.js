@@ -1,6 +1,6 @@
 window.professionalProfile = {
   title: 'VFX Artist / Unreal Technical Artist',
-  email: 'info.francescozaccone@gmail.com',
+  email: 'info@francescozaccone.com',
   summary: 'I work across cinematic VFX and Unreal technical art, connecting visual development with real-time systems, technical animation and digital humans.',
   experience: [
     'Unreal Engine · cinematic lighting, Niagara VFX and rendering',
